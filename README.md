@@ -61,7 +61,7 @@ The footer that appears on every page, providing contact info and social links.
 ### Before Booking
 This screen allows users to input their reservation details.
 
-![Before Booking](./screenshots/before-booking.png)
+![Image](https://github.com/user-attachments/assets/12529b73-a902-45f6-bfd5-b6cafe8057bd)
 
 ### After Booking
 Confirmation screen that shows the booking details after a user makes a reservation.
