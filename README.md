@@ -78,7 +78,6 @@ terms of the use of the data.
 
 ![Image](https://github.com/user-attachments/assets/c9e5cf00-68d3-455e-bdc8-6f62e1583db1)
 
-> **Note**: Replace the image paths with your actual image paths (e.g., if the screenshots are stored in a `/screenshots` folder, make sure the paths are correct).
 
 ## Getting Started
 
