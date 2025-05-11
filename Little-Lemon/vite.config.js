@@ -10,7 +10,8 @@ export default defineConfig({
     tailwindcss(),
   ],
   test: {
-    globals: true,       // 👈 allows using 'test', 'expect' etc. without import
-    environment: 'jsdom' // 👈 simulates a browser environment for React testing
-  }
+  environment: 'jsdom',
+  globals: true, 
+}
+
 })
