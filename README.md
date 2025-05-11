@@ -51,7 +51,7 @@ This is the main landing page that introduces the restaurant.
 ### Special This Week
 Section highlighting the special offers of the week.
 
-![Special This Week](./screenshots/special-this-week.png)
+![Image](https://github.com/user-attachments/assets/ace2bde9-6e25-4fcb-9c44-2ee1bf3ada55)
 
 ### Footer
 The footer that appears on every page, providing contact info and social links.
