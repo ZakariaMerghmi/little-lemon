@@ -56,7 +56,7 @@ Section highlighting the special offers of the week.
 ### Footer
 The footer that appears on every page, providing contact info and social links.
 
-![Footer](./screenshots/footer.png)
+![Image](https://github.com/user-attachments/assets/07c20baa-956f-42e1-a0fb-7ea923047885)
 
 ### Before Booking
 This screen allows users to input their reservation details.
