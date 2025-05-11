@@ -71,7 +71,10 @@ Confirmation screen that shows the booking details after a user makes a reservat
 ### Online Menu
 The section that shows the restaurant's menu for users to browse.
 
-![Online Menu](./screenshots/online-menu.png)
+![Image](https://github.com/user-attachments/assets/39dafc65-a0dc-4969-9427-6b26619620e3)
+
+### Terms And Conditions
+terms of the use of the data
 
 > **Note**: Replace the image paths with your actual image paths (e.g., if the screenshots are stored in a `/screenshots` folder, make sure the paths are correct).
 
