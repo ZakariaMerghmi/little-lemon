@@ -46,7 +46,7 @@ Here are some screenshots of the app:
 ### Home Page
 This is the main landing page that introduces the restaurant.
 
-![Home Page](./screenshots/home-page.png)
+![Image](https://github.com/user-attachments/assets/e8298b32-9a97-41f2-9437-14384dfaada6)
 
 ### Special This Week
 Section highlighting the special offers of the week.
