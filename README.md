@@ -66,7 +66,7 @@ This screen allows users to input their reservation details.
 ### After Booking
 Confirmation screen that shows the booking details after a user makes a reservation.
 
-![After Booking](./screenshots/after-booking.png)
+![Image](https://github.com/user-attachments/assets/ab3f8e1e-c62c-497e-9952-59b8c644c6ad)
 
 ### Online Menu
 The section that shows the restaurant's menu for users to browse.
