@@ -74,7 +74,9 @@ The section that shows the restaurant's menu for users to browse.
 ![Image](https://github.com/user-attachments/assets/39dafc65-a0dc-4969-9427-6b26619620e3)
 
 ### Terms And Conditions
-terms of the use of the data
+terms of the use of the data.
+
+![Image](https://github.com/user-attachments/assets/c9e5cf00-68d3-455e-bdc8-6f62e1583db1)
 
 > **Note**: Replace the image paths with your actual image paths (e.g., if the screenshots are stored in a `/screenshots` folder, make sure the paths are correct).
 
