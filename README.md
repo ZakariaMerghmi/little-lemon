@@ -90,12 +90,10 @@ To run this project locally, follow the instructions below.
 ### Installation
 
 
-### Notes:
+## License
 
-1. **Screenshots**: I've added sections to show screenshots for each page you mentioned (e.g., Home Page, Special This Week, Footer, etc.). Please place your actual screenshots in a folder called `screenshots` or adjust the image paths accordingly in the `![Image Name](./screenshots/image.png)` format.
-2. **License**: The License section refers to the [MIT License](LICENSE). If you’re using a different license, you can replace it with the correct one.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-This structure should now include all the required sections for your project’s README.
 
 
 1. Clone the repository:
